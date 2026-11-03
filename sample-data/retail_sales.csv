@@ -1,0 +1,246 @@
+order_id,order_date,customer_id,region,product_category,product,quantity,unit_price,discount,payment_method
+ORD-0001,2026-01-01,CUS-063,South,Office,Notebook,,12.5,0.1,Cash
+ORD-0002,2026-01-01,CUS-049,East,Office,Pen set,1,8.0,0.05,Card
+ORD-0003,2026-01-01,CUS-025,East,Home,Desk lamp,4,35.0,0,Bank transfer
+ORD-0004,2026-01-02,CUS-008,West,Home,Planter,6,18.0,0,Cash
+ORD-0005,2026-01-02,CUS-010,East,Technology,Keyboard,2,65.0,0.05,Bank transfer
+ORD-0006,2026-01-02,CUS-037,West,Technology,USB hub,5,29.5,0.05,Card
+ORD-0007,2026-01-03,CUS-060,West,Office,Notebook,3,12.5,0.05,Card
+ORD-0008,2026-01-03,CUS-009,East,Office,Pen set,8,8.0,0.05,Bank transfer
+ORD-0009,2026-01-03,CUS-015,West,Home,Desk lamp,2,35.0,0.05,Cash
+ORD-0010,2026-01-04,CUS-023,West,Home,Planter,3,18.0,0,Cash
+ORD-0011,2026-01-04,CUS-012,West,Technology,Keyboard,2,65.0,0.05,Cash
+ORD-0012,2026-01-04,CUS-026,East,Technology,USB hub,4,29.5,0.1,Card
+ORD-0013,2026-01-05,CUS-015,East,Office,Notebook,5,12.5,0,Cash
+ORD-0014,2026-01-05,CUS-024,West,Office,Pen set,4,8.0,0.05,Card
+ORD-0015,2026-01-05,CUS-057,North,Home,Desk lamp,4,35.0,0.05,Cash
+ORD-0016,2026-01-06,CUS-001,East,Home,Planter,5,18.0,0,Cash
+ORD-0017,2026-01-06,CUS-043,East,Technology,Keyboard,7,65.0,0,Cash
+ORD-0018,2026-01-06,CUS-021,South,Technology,USB hub,5,29.5,0.1,Bank transfer
+ORD-0019,2026-01-07,CUS-060,West,Office,Notebook,2,12.5,0,Card
+ORD-0020,2026-01-07,CUS-012,East,Office,Pen set,2,8.0,0.1,Cash
+ORD-0021,2026-01-07,CUS-031,West,Home,Desk lamp,4,35.0,0,Bank transfer
+ORD-0022,2026-01-08,CUS-041,South,Home,Planter,2,18.0,0,Cash
+ORD-0023,2026-01-08,CUS-001,East,Technology,Keyboard,2,65.0,0,Card
+ORD-0024,2026-01-08,CUS-037,North,Technology,USB hub,5,29.5,0,Bank transfer
+ORD-0025,2026-01-09,CUS-004,South,Office,Notebook,5,12.5,0.05,Card
+ORD-0026,2026-01-09,CUS-037,South,Office,Pen set,3,8.0,0.1,Cash
+ORD-0027,2026-01-09,CUS-048,North,Home,Desk lamp,4,35.0,0,Card
+ORD-0028,2026-01-10,CUS-055,South,Home,Planter,3,18.0,0,Card
+ORD-0029,2026-01-10,CUS-048,North,Technology,Keyboard,3,65.0,0,Cash
+ORD-0030,2026-01-10,CUS-041,East,Technology,USB hub,5,29.5,0,Cash
+ORD-0031,2026-01-11,CUS-062,West,Office,Notebook,3,12.5,0,Bank transfer
+ORD-0032,2026-01-11,CUS-034,East,Office,Pen set,3,8.0,0.05,Bank transfer
+ORD-0033,2026-01-11,CUS-013,North,Home,Desk lamp,2,35.0,0.1,Cash
+ORD-0034,2026-01-12,CUS-016,East,Home,Planter,2,18.0,0.05,Bank transfer
+ORD-0035,2026-01-12,CUS-049,North,Technology,Keyboard,2,65.0,0,Card
+ORD-0036,2026-01-12,CUS-040,North,Technology,USB hub,3,29.5,0,Bank transfer
+ORD-0037,2026-01-13,CUS-006,South,Office,Notebook,8,12.5,0,Bank transfer
+ORD-0038,2026-01-13,CUS-029,South,Office,Pen set,,8.0,0.05,Cash
+ORD-0039,2026-01-13,CUS-060,South,Home,Desk lamp,6,35.0,0.1,Card
+ORD-0040,2026-01-14,CUS-058,West,Home,Planter,5,18.0,0.05,Bank transfer
+ORD-0041,2026-01-14,CUS-062,South,Technology,Keyboard,7,65.0,0.05,Card
+ORD-0042,2026-01-14,CUS-028,East,Technology,USB hub,3,29.5,0,Bank transfer
+ORD-0043,2026-01-15,CUS-029,South,Office,Notebook,2,12.5,0.1,Card
+ORD-0044,2026-01-15,CUS-028,South,Office,Pen set,1,8.0,0.05,Bank transfer
+ORD-0045,2026-01-15,CUS-031,East,Home,Desk lamp,2,35.0,0.05,Bank transfer
+ORD-0046,2026-01-16,CUS-057,West,Home,Planter,3,18.0,0,Cash
+ORD-0047,2026-01-16,CUS-029,West,Technology,Keyboard,6,65.0,0.05,Cash
+ORD-0048,2026-01-16,CUS-011,North,Technology,USB hub,8,29.5,0,Bank transfer
+ORD-0049,2026-01-17,CUS-025,North,Office,Notebook,5,12.5,0.05,Card
+ORD-0050,2026-01-17,CUS-008,East,Office,Pen set,2,8.0,0.05,Cash
+ORD-0051,2026-01-17,CUS-052,South,Home,Desk lamp,5,35.0,0,Card
+ORD-0052,2026-01-18,CUS-050,East,Home,Planter,6,18.0,0.1,Bank transfer
+ORD-0053,2026-01-18,CUS-022,East,Technology,Keyboard,5,65.0,0.1,Card
+ORD-0054,2026-01-18,CUS-039,South,Technology,USB hub,4,29.5,0.05,Bank transfer
+ORD-0055,2026-01-19,CUS-018,North,Office,Notebook,4,12.5,0.05,Cash
+ORD-0056,2026-01-19,CUS-065,East,Office,Pen set,8,8.0,0,Card
+ORD-0057,2026-01-19,CUS-006,East,Home,Desk lamp,7,35.0,0.05,Cash
+ORD-0058,2026-01-20,CUS-063,East,Home,Planter,3,18.0,0,Bank transfer
+ORD-0059,2026-01-20,CUS-034,West,Technology,Keyboard,2,65.0,0.05,Cash
+ORD-0060,2026-01-20,CUS-039,West,Technology,USB hub,8,29.5,0,Card
+ORD-0061,2026-01-21,CUS-011,East,Office,Notebook,8,12.5,0.1,Card
+ORD-0062,2026-01-21,CUS-010,West,Office,Pen set,8,8.0,0.1,Card
+ORD-0063,2026-01-21,CUS-020,West,Home,Desk lamp,4,35.0,0,Card
+ORD-0064,2026-01-22,CUS-034,South,Home,Planter,1,18.0,0,Card
+ORD-0065,2026-01-22,CUS-007,West,Technology,Keyboard,8,65.0,0.05,Card
+ORD-0066,2026-01-22,CUS-037,North,Technology,USB hub,3,29.5,0.1,Card
+ORD-0067,2026-01-23,CUS-059,North,Office,Notebook,5,12.5,0,Bank transfer
+ORD-0068,2026-01-23,CUS-065,East,Office,Pen set,5,8.0,0,Card
+ORD-0069,2026-01-23,CUS-010,East,Home,Desk lamp,3,35.0,0,Bank transfer
+ORD-0070,2026-01-24,CUS-007,East,Home,Planter,7,18.0,0.05,Cash
+ORD-0071,2026-01-24,CUS-022,North,Technology,Keyboard,3,65.0,0,Bank transfer
+ORD-0072,2026-01-24,CUS-060,North,Technology,USB hub,5,29.5,0.05,Cash
+ORD-0073,2026-01-25,CUS-018,North,Office,Notebook,3,12.5,0.05,Card
+ORD-0074,2026-01-25,CUS-014,West,Office,Pen set,7,8.0,0,Cash
+ORD-0075,2026-01-25,CUS-046,West,Home,Desk lamp,,35.0,0,Cash
+ORD-0076,2026-01-26,CUS-038,East,Home,Planter,6,18.0,0.05,Card
+ORD-0077,2026-01-26,CUS-005,South,Technology,Keyboard,5,65.0,0.05,Bank transfer
+ORD-0078,2026-01-26,CUS-051,North,Technology,USB hub,5,29.5,0,Bank transfer
+ORD-0079,2026-01-27,CUS-060,West,Office,Notebook,2,12.5,0.1,Bank transfer
+ORD-0080,2026-01-27,CUS-059,West,Office,Pen set,3,8.0,0.1,Cash
+ORD-0081,2026-01-27,CUS-038,South,Home,Desk lamp,3,35.0,0.05,Bank transfer
+ORD-0082,2026-01-28,CUS-032,North,Home,Planter,6,18.0,0.1,Card
+ORD-0083,2026-01-28,CUS-055,North,Technology,Keyboard,5,65.0,0.1,Bank transfer
+ORD-0084,2026-01-28,CUS-034,South,Technology,USB hub,3,29.5,0.1,Cash
+ORD-0085,2026-01-29,CUS-003,North,Office,Notebook,3,12.5,0,Card
+ORD-0086,2026-01-29,CUS-062,South,Office,Pen set,7,8.0,0.05,Card
+ORD-0087,2026-01-29,CUS-037,West,Home,Desk lamp,2,35.0,0,Cash
+ORD-0088,2026-01-30,CUS-029,East,Home,Planter,2,18.0,0,Card
+ORD-0089,2026-01-30,CUS-052,South,Technology,Keyboard,8,65.0,0.1,Bank transfer
+ORD-0090,2026-01-30,CUS-024,West,Technology,USB hub,5,29.5,0,Bank transfer
+ORD-0091,2026-01-31,CUS-064,West,Office,Notebook,5,12.5,0,Bank transfer
+ORD-0092,2026-01-31,CUS-018,West,Office,Pen set,1,8.0,0.05,Cash
+ORD-0093,2026-01-31,CUS-042,South,Home,Desk lamp,6,35.0,0,Cash
+ORD-0094,2026-02-01,CUS-054,North,Home,Planter,7,18.0,0.05,Cash
+ORD-0095,2026-02-01,CUS-019,West,Technology,Keyboard,5,65.0,0.1,Card
+ORD-0096,2026-02-01,CUS-008,West,Technology,USB hub,7,29.5,0.1,Card
+ORD-0097,2026-02-02,CUS-059,East,Office,Notebook,8,12.5,0,Card
+ORD-0098,2026-02-02,CUS-048,West,Office,Pen set,8,8.0,0.05,Cash
+ORD-0099,2026-02-02,CUS-001,West,Home,Desk lamp,7,35.0,0.05,Bank transfer
+ORD-0100,2026-02-03,CUS-002,East,Home,Planter,6,18.0,0,Card
+ORD-0101,2026-02-03,CUS-040,West,Technology,Keyboard,2,65.0,0.1,Cash
+ORD-0102,2026-02-03,CUS-004,North,Technology,USB hub,3,29.5,0.05,Bank transfer
+ORD-0103,2026-02-04,CUS-004,South,Office,Notebook,1,12.5,0,Bank transfer
+ORD-0104,2026-02-04,CUS-036,West,Office,Pen set,3,8.0,0,Cash
+ORD-0105,2026-02-04,CUS-031,North,Home,Desk lamp,8,35.0,0,Card
+ORD-0106,2026-02-05,CUS-008,South,Home,Planter,5,18.0,0,Card
+ORD-0107,2026-02-05,CUS-042,South,Technology,Keyboard,8,65.0,0.05,Bank transfer
+ORD-0108,2026-02-05,CUS-039,East,Technology,USB hub,8,29.5,0.1,Cash
+ORD-0109,2026-02-06,CUS-010,East,Office,Notebook,3,12.5,0,Card
+ORD-0110,2026-02-06,CUS-063,South,Office,Pen set,2,8.0,0,Bank transfer
+ORD-0111,2026-02-06,CUS-023,North,Home,Desk lamp,5,35.0,0.1,Card
+ORD-0112,2026-02-07,CUS-050,East,Home,Planter,,18.0,0.05,Cash
+ORD-0113,2026-02-07,CUS-047,North,Technology,Keyboard,8,65.0,0,Bank transfer
+ORD-0114,2026-02-07,CUS-056,West,Technology,USB hub,8,29.5,0.1,Card
+ORD-0115,2026-02-08,CUS-060,North,Office,Notebook,2,12.5,0,Cash
+ORD-0116,2026-02-08,CUS-034,West,Office,Pen set,7,8.0,0,Bank transfer
+ORD-0117,2026-02-08,CUS-032,North,Home,Desk lamp,4,35.0,0,Cash
+ORD-0118,2026-02-09,CUS-056,North,Home,Planter,7,18.0,0,Bank transfer
+ORD-0119,2026-02-09,CUS-057,East,Technology,Keyboard,7,65.0,0.1,Bank transfer
+ORD-0120,2026-02-09,CUS-001,West,Technology,USB hub,8,29.5,0.1,Bank transfer
+ORD-0121,2026-02-10,CUS-062,West,Office,Notebook,1,12.5,0.05,Cash
+ORD-0122,2026-02-10,CUS-003,East,Office,Pen set,6,8.0,0,Bank transfer
+ORD-0123,2026-02-10,CUS-022,South,Home,Desk lamp,6,35.0,0,Card
+ORD-0124,2026-02-11,CUS-037,South,Home,Planter,4,18.0,0.05,Cash
+ORD-0125,2026-02-11,CUS-035,South,Technology,Keyboard,5,65.0,0,Cash
+ORD-0126,2026-02-11,CUS-011,West,Technology,USB hub,1,29.5,0.1,Bank transfer
+ORD-0127,2026-02-12,CUS-003,South,Office,Notebook,3,12.5,0,Bank transfer
+ORD-0128,2026-02-12,CUS-038,North,Office,Pen set,4,8.0,0.05,Card
+ORD-0129,2026-02-12,CUS-013,South,Home,Desk lamp,1,35.0,0.1,Cash
+ORD-0130,2026-02-13,CUS-035,West,Home,Planter,8,18.0,0,Card
+ORD-0131,2026-02-13,CUS-012,South,Technology,Keyboard,2,65.0,0,Bank transfer
+ORD-0132,2026-02-13,CUS-019,South,Technology,USB hub,2,29.5,0,Cash
+ORD-0133,2026-02-14,CUS-032,North,Office,Notebook,4,12.5,0.1,Card
+ORD-0134,2026-02-14,CUS-044,South,Office,Pen set,3,8.0,0,Cash
+ORD-0135,2026-02-14,CUS-039,West,Home,Desk lamp,7,35.0,0,Bank transfer
+ORD-0136,2026-02-15,CUS-055,North,Home,Planter,1,18.0,0,Card
+ORD-0137,2026-02-15,CUS-064,East,Technology,Keyboard,1,65.0,0,Cash
+ORD-0138,2026-02-15,CUS-035,West,Technology,USB hub,2,29.5,0,Card
+ORD-0139,2026-02-16,CUS-048,East,Office,Notebook,3,12.5,0.05,Cash
+ORD-0140,2026-02-16,CUS-023,West,Office,Pen set,1,8.0,0.05,Card
+ORD-0141,2026-02-16,CUS-035,South,Home,Desk lamp,7,35.0,0,Bank transfer
+ORD-0142,2026-02-17,CUS-050,West,Home,Planter,7,18.0,0,Cash
+ORD-0143,2026-02-17,CUS-001,East,Technology,Keyboard,3,65.0,0.05,Cash
+ORD-0144,2026-02-17,CUS-019,South,Technology,USB hub,7,29.5,0.1,Bank transfer
+ORD-0145,2026-02-18,CUS-009,North,Office,Notebook,7,12.5,0.1,Cash
+ORD-0146,2026-02-18,CUS-046,North,Office,Pen set,1,8.0,0.05,Bank transfer
+ORD-0147,2026-02-18,CUS-064,North,Home,Desk lamp,6,35.0,0.05,Cash
+ORD-0148,2026-02-19,CUS-045,North,Home,Planter,1,18.0,0.05,Cash
+ORD-0149,2026-02-19,CUS-054,North,Technology,Keyboard,,65.0,0.05,Bank transfer
+ORD-0150,2026-02-19,CUS-057,West,Technology,USB hub,1,29.5,0.05,Bank transfer
+ORD-0151,2026-02-20,CUS-030,South,Office,Notebook,3,12.5,0.05,Card
+ORD-0152,2026-02-20,CUS-022,South,Office,Pen set,2,8.0,0.05,Card
+ORD-0153,2026-02-20,CUS-045,West,Home,Desk lamp,6,35.0,0.1,Bank transfer
+ORD-0154,2026-02-21,CUS-057,East,Home,Planter,4,18.0,0,Card
+ORD-0155,2026-02-21,CUS-060,North,Technology,Keyboard,8,65.0,0,Cash
+ORD-0156,2026-02-21,CUS-015,East,Technology,USB hub,4,29.5,0.05,Bank transfer
+ORD-0157,2026-02-22,CUS-056,North,Office,Notebook,4,12.5,0,Card
+ORD-0158,2026-02-22,CUS-047,North,Office,Pen set,5,8.0,0,Cash
+ORD-0159,2026-02-22,CUS-058,West,Home,Desk lamp,6,35.0,0.1,Cash
+ORD-0160,2026-02-23,CUS-050,West,Home,Planter,2,18.0,0,Bank transfer
+ORD-0161,2026-02-23,CUS-063,South,Technology,Keyboard,7,65.0,0.05,Cash
+ORD-0162,2026-02-23,CUS-011,North,Technology,USB hub,5,29.5,0,Bank transfer
+ORD-0163,2026-02-24,CUS-041,South,Office,Notebook,5,12.5,0.05,Bank transfer
+ORD-0164,2026-02-24,CUS-060,East,Office,Pen set,6,8.0,0.1,Bank transfer
+ORD-0165,2026-02-24,CUS-031,North,Home,Desk lamp,2,35.0,0.1,Cash
+ORD-0166,2026-02-25,CUS-019,West,Home,Planter,3,18.0,0.1,Card
+ORD-0167,2026-02-25,CUS-001,South,Technology,Keyboard,3,65.0,0.05,Cash
+ORD-0168,2026-02-25,CUS-003,East,Technology,USB hub,6,29.5,0.1,Card
+ORD-0169,2026-02-26,CUS-035,West,Office,Notebook,1,12.5,0.05,Cash
+ORD-0170,2026-02-26,CUS-040,East,Office,Pen set,4,8.0,0.05,Cash
+ORD-0171,2026-02-26,CUS-064,South,Home,Desk lamp,6,35.0,0.1,Card
+ORD-0172,2026-02-27,CUS-034,West,Home,Planter,5,18.0,0,Card
+ORD-0173,2026-02-27,CUS-021,North,Technology,Keyboard,3,65.0,0,Bank transfer
+ORD-0174,2026-02-27,CUS-021,East,Technology,USB hub,4,29.5,0.05,Cash
+ORD-0175,2026-02-28,CUS-031,South,Office,Notebook,2,12.5,0,Cash
+ORD-0176,2026-02-28,CUS-024,North,Office,Pen set,2,8.0,0,Cash
+ORD-0177,2026-02-28,CUS-050,East,Home,Desk lamp,1,35.0,0,Bank transfer
+ORD-0178,2026-03-01,CUS-024,North,Home,Planter,2,18.0,0.1,Cash
+ORD-0179,2026-03-01,CUS-065,South,Technology,Keyboard,2,65.0,0.05,Bank transfer
+ORD-0180,2026-03-01,CUS-038,West,Technology,USB hub,3,29.5,0.05,Cash
+ORD-0181,2026-03-02,CUS-058,South,Office,Notebook,3,12.5,0,Cash
+ORD-0182,2026-03-02,CUS-032,North,Office,Pen set,5,8.0,0.05,Bank transfer
+ORD-0183,2026-03-02,CUS-013,East,Home,Desk lamp,4,35.0,0.1,Cash
+ORD-0184,2026-03-03,CUS-020,East,Home,Planter,7,18.0,0,Card
+ORD-0185,2026-03-03,CUS-047,North,Technology,Keyboard,5,65.0,0.05,Bank transfer
+ORD-0186,2026-03-03,CUS-032,North,Technology,USB hub,,29.5,0.05,Bank transfer
+ORD-0187,2026-03-04,CUS-021,North,Office,Notebook,1,12.5,0,Card
+ORD-0188,2026-03-04,CUS-065,South,Office,Pen set,5,8.0,0,Card
+ORD-0189,2026-03-04,CUS-008,North,Home,Desk lamp,4,35.0,0.1,Bank transfer
+ORD-0190,2026-03-05,CUS-064,North,Home,Planter,2,18.0,0,Bank transfer
+ORD-0191,2026-03-05,CUS-047,South,Technology,Keyboard,3,65.0,0,Cash
+ORD-0192,2026-03-05,CUS-003,West,Technology,USB hub,4,29.5,0.1,Bank transfer
+ORD-0193,2026-03-06,CUS-016,West,Office,Notebook,4,12.5,0.1,Card
+ORD-0194,2026-03-06,CUS-044,East,Office,Pen set,8,8.0,0,Card
+ORD-0195,2026-03-06,CUS-031,West,Home,Desk lamp,8,35.0,0,Bank transfer
+ORD-0196,2026-03-07,CUS-064,West,Home,Planter,1,18.0,0,Card
+ORD-0197,2026-03-07,CUS-036,West,Technology,Keyboard,2,65.0,0.05,Card
+ORD-0198,2026-03-07,CUS-039,North,Technology,USB hub,1,29.5,0.1,Bank transfer
+ORD-0199,2026-03-08,CUS-065,East,Office,Notebook,5,12.5,0.05,Card
+ORD-0200,2026-03-08,CUS-061,East,Office,Pen set,1,8.0,0,Cash
+ORD-0201,2026-03-08,CUS-017,East,Home,Desk lamp,2,35.0,0,Card
+ORD-0202,2026-03-09,CUS-020,West,Home,Planter,5,18.0,0.05,Bank transfer
+ORD-0203,2026-03-09,CUS-008,South,Technology,Keyboard,4,65.0,0.05,Cash
+ORD-0204,2026-03-09,CUS-040,West,Technology,USB hub,8,29.5,0,Cash
+ORD-0205,2026-03-10,CUS-033,West,Office,Notebook,3,12.5,0,Cash
+ORD-0206,2026-03-10,CUS-042,North,Office,Pen set,4,8.0,0,Bank transfer
+ORD-0207,2026-03-10,CUS-016,East,Home,Desk lamp,8,35.0,0,Card
+ORD-0208,2026-03-11,CUS-015,South,Home,Planter,2,18.0,0,Cash
+ORD-0209,2026-03-11,CUS-012,South,Technology,Keyboard,1,65.0,0,Card
+ORD-0210,2026-03-11,CUS-028,South,Technology,USB hub,5,29.5,0,Cash
+ORD-0211,2026-03-12,CUS-039,South,Office,Notebook,1,12.5,0.05,Bank transfer
+ORD-0212,2026-03-12,CUS-046,East,Office,Pen set,8,8.0,0.05,Cash
+ORD-0213,2026-03-12,CUS-015,South,Home,Desk lamp,1,35.0,0.05,Card
+ORD-0214,2026-03-13,CUS-039,East,Home,Planter,3,18.0,0,Cash
+ORD-0215,2026-03-13,CUS-045,South,Technology,Keyboard,5,65.0,0.1,Bank transfer
+ORD-0216,2026-03-13,CUS-037,South,Technology,USB hub,3,29.5,0.05,Card
+ORD-0217,2026-03-14,CUS-005,South,Office,Notebook,2,12.5,0,Bank transfer
+ORD-0218,2026-03-14,CUS-027,North,Office,Pen set,5,8.0,0.1,Card
+ORD-0219,2026-03-14,CUS-014,North,Home,Desk lamp,1,35.0,0,Cash
+ORD-0220,2026-03-15,CUS-022,North,Home,Planter,8,18.0,0.05,Cash
+ORD-0221,2026-03-15,CUS-014,East,Technology,Keyboard,1,65.0,0,Cash
+ORD-0222,2026-03-15,CUS-048,North,Technology,USB hub,3,29.5,0.05,Cash
+ORD-0223,2026-03-16,CUS-033,West,Office,Notebook,,12.5,0,Bank transfer
+ORD-0224,2026-03-16,CUS-019,North,Office,Pen set,7,8.0,0,Bank transfer
+ORD-0225,2026-03-16,CUS-038,North,Home,Desk lamp,4,35.0,0.05,Cash
+ORD-0226,2026-03-17,CUS-048,South,Home,Planter,4,18.0,0.05,Bank transfer
+ORD-0227,2026-03-17,CUS-041,East,Technology,Keyboard,4,65.0,0.05,Card
+ORD-0228,2026-03-17,CUS-014,East,Technology,USB hub,8,29.5,0,Card
+ORD-0229,2026-03-18,CUS-014,East,Office,Notebook,1,12.5,0,Cash
+ORD-0230,2026-03-18,CUS-013,West,Office,Pen set,7,8.0,0.05,Bank transfer
+ORD-0231,2026-03-18,CUS-061,West,Home,Desk lamp,7,35.0,0.1,Card
+ORD-0232,2026-03-19,CUS-055,East,Home,Planter,8,18.0,0.05,Bank transfer
+ORD-0233,2026-03-19,CUS-060,North,Technology,Keyboard,3,65.0,0.05,Card
+ORD-0234,2026-03-19,CUS-054,South,Technology,USB hub,1,29.5,0.05,Bank transfer
+ORD-0235,2026-03-20,CUS-041,East,Office,Notebook,4,12.5,0,Cash
+ORD-0236,2026-03-20,CUS-019,North,Office,Pen set,6,8.0,0,Cash
+ORD-0237,2026-03-20,CUS-055,West,Home,Desk lamp,7,35.0,0.1,Bank transfer
+ORD-0238,2026-03-21,CUS-030,North,Home,Planter,6,18.0,0,Cash
+ORD-0239,2026-03-21,CUS-030,East,Technology,Keyboard,6,65.0,0.05,Card
+ORD-0240,2026-03-21,CUS-042,North,Technology,USB hub,1,29.5,0,Card
+ORD-0006,2026-01-02,CUS-037,West,Technology,USB hub,5,29.5,0.05,Card
+ORD-0007,2026-01-03,CUS-060,West,Office,Notebook,3,12.5,0.05,Card
+ORD-0008,2026-01-03,CUS-009,East,Office,Pen set,8,8.0,0.05,Bank transfer
+ORD-0009,2026-01-03,CUS-015,West,Home,Desk lamp,2,35.0,0.05,Cash
+ORD-0010,2026-01-04,CUS-023,West,Home,Planter,3,18.0,0,Cash
